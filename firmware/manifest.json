@@ -1,7 +1,7 @@
 {
   "version": "ODDLINGS OS v2.8",
   "build": 280,
-  "cores3_build": 270,
+  "cores3_build": 280,
   "tab5_build": 280,
   "released_at": "2026-10-27T19:12:00Z",
   "cores3_url": "https://oddlings.vercel.app/firmware/cores3.bin",
