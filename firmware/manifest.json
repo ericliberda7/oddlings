@@ -1,13 +1,13 @@
 {
-  "version": "ODDLINGS OS v2.7",
-  "build": 270,
+  "version": "ODDLINGS OS v2.8",
+  "build": 280,
   "cores3_build": 270,
-  "tab5_build": 270,
-  "released_at": "2026-10-27T13:25:00Z",
+  "tab5_build": 280,
+  "released_at": "2026-10-27T19:12:00Z",
   "cores3_url": "https://oddlings.vercel.app/firmware/cores3.bin",
   "cores3_factory_url": "https://oddlings.vercel.app/firmware/cores3.factory.bin",
   "oddlings_bin_url": "https://oddlings.vercel.app/firmware/Oddlings.bin",
   "tab5_url": "https://oddlings.vercel.app/firmware/tab5.bin",
   "tab5_factory_url": "https://oddlings.vercel.app/firmware/tab5.factory.bin",
-  "notes": "ODDLINGS OS v2.7: Wireless HTTPS OTA from oddlings.vercel.app/firmware, Moebius Noir Pen-and-Ink Crosshatch Mode, 2-Second Hold to Mute, Enlarged Terrestrial/Arboreal/Burrower/Jumper Proportions."
+  "notes": "ODDLINGS OS v2.8: Tab5 1280x720 PSRAM Background Cache + 16x16 L1-Tiled Direct MIPI-DSI Framebuffer Blitter + Dirty-Rect Compositing + Upright Landscape Orientation (Rotation 3), Wireless HTTPS OTA."
 }
