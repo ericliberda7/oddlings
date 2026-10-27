@@ -1,0 +1,23 @@
+# Ignore all raw source code and build intermediates
+*
+
+# Allow README, visual assets, and prebuilt firmware binaries only
+!.gitignore
+!README.md
+!sdcard/
+!sdcard/*.bin
+!firmware/
+!firmware/*.bin
+!firmware/manifest.json
+!website/
+!website/assets/
+!website/assets/gif/
+!website/assets/gif/*.gif
+!website/assets/img/
+!website/assets/img/espnow_p2p_encounter.png
+!website/assets/img/evolution_traits_showcase.png
+!website/assets/img/new_oddlings_mega_showcase.png
+!website/assets/img/noir_mode_showcase.png
+!website/assets/img/procedural_anatomy_sheet.png
+!website/assets/img/tab5_sanctuary_hub.png
+!website/assets/img/unit_floater_showcase.png
