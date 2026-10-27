@@ -6,6 +6,10 @@
 !README.md
 !sdcard/
 !sdcard/*.bin
+!sdcard/firmware/
+!sdcard/firmware/*.bin
+!sdcard/firmwares/
+!sdcard/firmwares/*.bin
 !firmware/
 !firmware/*.bin
 !firmware/manifest.json
